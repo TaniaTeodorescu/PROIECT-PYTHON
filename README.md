@@ -1,5 +1,5 @@
 # PROIECT-PYTHON
-Proiect Python - An 2, Semestrul 1, ETTI
+Proiect Python Heart Rate Monitor - An 2, Semestrul 1, ETTI
 
 Recomandări de instalare IDE
 Pentru o bună funcționare a aplicației, recomandăm utilizarea IDE-ului Thonny (Link de instalare: https://thonny.org/).
